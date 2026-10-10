@@ -1,10 +1,5 @@
 
 # Third-Space Finder — Requirements Backlog
-
-## Project Overview
-
-Third-Space Finder helps users find "third spaces" outside of home, school, and work where they can socialize, relax, participate in activities, or spend time alone.
-
 ---
 
 ## Functional Requirements
